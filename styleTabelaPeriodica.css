@@ -1,0 +1,47 @@
+table {
+width: 100%;
+table-layout: fixed;
+text-align: center;
+border-collapse: collapse;
+}
+
+td:empty {
+    border: none;
+    height: 55px;
+}
+.border {
+    border: solid 2px;
+}
+.bordernone {
+    border: none;
+}
+.naometais {
+    background-color: #b3d76a;
+}
+.metaisalcalinos {
+    background-color: #f5c95e;
+}
+.metaisalcalinoterrosos {
+    background-color: #efe55b;
+}
+.metaistrasição {
+    background-color: #f2b0b0;
+}
+.semimetais {
+    background-color: #66c4bc;
+}
+.outrosmetais {
+    background-color: #a2c6d2;
+}
+.halogenios {
+    background-color: #a7dff3;
+}
+.gasesnobre {
+    background-color: #67afde;
+}
+.lantanideos {
+    background-color: #97d7e1;
+}
+.acnideos {
+    background-color: #e2bdd8;
+}
